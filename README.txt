@@ -1,5 +1,6 @@
 About this Project:
-This is a simple interest calculator which can calculate how much money a savings account would have after yearly compounding interest.  The calculator uses the following formula:
+This is a simple interest calculator which can calculate how much money a savings account would have after yearly compounding interest.  
+The calculator uses the following formula:
 A = P (1 + r)^t
 A = Amount after interest accrues,
 P = Principal amount,
@@ -8,7 +9,8 @@ t = Number of years interest accrues
 
 
 Installation Instructions:
-This project does not need to be installed.  Download the repository zip folder and extract the contents to a folder.  The calculator can be started by running the "interest_calculator.exe" file within the "interest_calculator" folder. 
+This project does not need to be installed.  Download the repository zip folder and extract the contents to a folder.  
+The calculator can be started by running the "interest_calculator.exe" file within the "interest_calculator" folder. 
 
 
 Usage Instructions:
