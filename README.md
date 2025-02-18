@@ -12,8 +12,7 @@ t = Number of years interest accrues
 
 
 Installation Instructions:
-This project does not need to be installed.  Download the repository zip folder and extract the contents to a folder.  
-The calculator can be started by running the "interest_calculator.exe" file within the "interest_calculator" folder. 
+Download the repository zip folder and extract the contents to a folder.  The calculator can be started by running the "interest_calculator.exe" file within the "interest_calculator" folder. 
 
 
 Usage Instructions:
